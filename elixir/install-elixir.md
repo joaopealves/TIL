@@ -10,7 +10,7 @@ and select the operating system, in my case I'm using ubuntu 20.04.
 
 Add erlang repo
 
-    wget https://packages.erlang-solutions.com/erlang-solutions_2.0_all.deb && sudo dpkg -i erlang-solutions_2.0_all.deb
+    apt-get install erlang
 
 ## 3º Step
 
