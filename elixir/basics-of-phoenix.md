@@ -22,6 +22,11 @@ is not installed? Click <a href="./install-phoenix.md">here</a>.
 
      mix phx.new demo --live
      cd demo
+     mix phx.server
+
+!!! note that when installing run the phx.server mix in the terminal, it will report several errors related to postgress, it occurs because the bank is not installed or is not connected with the project
+
+Not instaled? Click <a href="../postgresql/configure-postgresql.md">here</a>.
 
 or
 
